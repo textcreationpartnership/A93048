@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Briefe demonstrations of certaine, plaine and easie wayes, and meanes for the improving of any manner of barren-land although not worth xij.d. the acre, and shewing how to make the same become worth xx.s. xxx.s. or xl.s. the acre yearely. Published for the benefit of the nation, and for the increasing of the wealth and prosperity of all nations, that shall in time practice the same. By J. S. One that is desirous of the publicke good.</title>
+            <author>Sha., J., 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93048</idno>
+            <idno type="STC">Wing S3020A</idno>
+            <idno type="STC">ESTC R230008</idno>
+            <idno type="EEBO-CITATION">99895771</idno>
+            <idno type="PROQUEST">99895771</idno>
+            <idno type="VID">153340</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93048)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153340)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2359:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Briefe demonstrations of certaine, plaine and easie wayes, and meanes for the improving of any manner of barren-land although not worth xij.d. the acre, and shewing how to make the same become worth xx.s. xxx.s. or xl.s. the acre yearely. Published for the benefit of the nation, and for the increasing of the wealth and prosperity of all nations, that shall in time practice the same. By J. S. One that is desirous of the publicke good.</title>
+                  <author>Sha., J., 17th cent.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1650?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Drop-head title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>J. S. = John Shaw--Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Agriculture --  England --  Early works to 1800.</term>
+               <term>Land capability for agriculture --  England --  Early works to 1800.</term>
+               <term>Soil productivity --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb n="1" facs="tcp:153340:1"/>
+            <p>Briefe Demonſtrations of Certaine, Plaine and Eaſie wayes, and meanes for the Improving of any manner of Barren-Land, although not worth xij.d. the Acre, and ſhewing how to make the ſame become worth xx.s. xxx.s. or xl.s. the Acre yearely.</p>
+            <p>Publiſhed for the benefit of the Nation, and for the <hi>Increaſing of the wealth and Proſperity of all Nations, that ſhall in time Practice the ſame.</hi>
+            </p>
+            <p>By <hi>J. S.</hi> One that is deſirous of the Publicke good.</p>
+         </div>
+         <div type="to_the_reader">
+            <head>TO THE READER.</head>
+            <p>GEntle Reader, having many things to mak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> publick for the good of the Nation, I ſhall onely at the preſent briefly De<g ref="char:EOLhyphen"/>monſtrate ſome few things that may make much for the Publicke good and the Proſperity thereof; In th<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſmall and enſuing Trea<g ref="char:EOLhyphen"/>tiſe, it is intended for the good of the Poore aſwell as of the rich; and therefore, I ſhall in briefe publiſh no more at one time then what the poore man may be able to purchaſe and attaine to, aſwell as the rich, and ſo ſhall proceed in the ſucceeding times; Every one is bound in duty to imploy and improve thoſe Talents that God hath endowed them with to his glory and the publick good, and I hope no man can be offended thereat: if any ſuch there bee, they ought to know their Errour is great, and their judgement will be great at the great judgement day of the Lord: I ſhall Conclude only deſiring the Lord to bleſſe and proſper all honeſt and lawfull Endeavours, and reſt alwayes deſirous of the Publick good,</p>
+            <closer>
+               <signed>J: SHA:</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="agricultural_treatise">
+            <div n="1" type="chapter">
+               <pb n="2" facs="tcp:153340:2"/>
+               <head>
+                  <hi>CHAP. I.</hi> Concerning the uſe of the Manuring-Rowler.</head>
+               <p>OF all Inventions for the eaſie and ſpeedy Manuring of all ſorts of Ground, there is none better or more uſefull then the <hi>Manuring Rowler,</hi> being rightly and ſeaſonably uſed: The beſt ſeaſon for uſing thereof is in the <hi>Autumne</hi> and <hi>Winter,</hi> when the ground is wet and not dry or hard frozen: Alſo, when the Snow beginneth to melt and the froſt to thaw, the manner how to uſe it, is to fill it with Dung and other ſoyle, or with good and fertile Earth, and then to draw it up and down in your field from one end to the other, untill all the manure be vented out of the ſame, and then againe to fill it, and uſe it after the ſame manner, untill you have uſed and ſpent all your dung, hereby one load of Dung will do more good and improve your Land more then 3, or 4. Load laid on the ground, and ſpread after the accuſtomed manner: Alſo, ground that is not worth xij.d. the Acre, may in few yeares be made to become worth xx.s. or xxx.s. the Acre.</p>
+               <p>Theſe manuring <hi>Rowlers</hi> may be made of what bigneſs you pleaſe; for they may be made no bigger then for a man to drive or thrruſt afore him, and alſo they may bee made ſo bigge as they may require one or two Horſes to draw the ſame.</p>
+               <p>Now if the later end of the <hi>Autumne</hi> or <hi>Winter</hi> ſeaſon prove dry, and the ground be too dry to Manure and improve the ſame then you may moyſten and water the ſame, as is declared in the <hi>Chapter, Shewing how to water Ground in dry ſeaſons where water is plentifull:</hi> And in moiſtening, or watering the ſame, be ſure to moiſten and water no more then you ſhall at that preſent manure well with your manuring <hi>Rowler,</hi> and water that well, and throughly that you would Manure.</p>
+               <p>Alſo, if you would Improve any barren Land ſpeedily then you muſt bring in the beſt mould you can get, and ſpread the
+<pb n="3" facs="tcp:153340:2" rendition="simple:additions"/>ſame all over ſo much of your barren Land as you deſire to Im<g ref="char:EOLhyphen"/>prove, and after you have ſpread the ſame, then to fill your ma<g ref="char:EOLhyphen"/>nuring <hi>Rowlers</hi> with Dung or other good ſoyle, and manure the ſame when the ground is Wet as is before preſcribed.</p>
+               <p>Alſo, it is very expedient to Plow up your barren ground, if you have not plenty of good Earth to lay upon it and to ma<g ref="char:EOLhyphen"/>nure it withall, and aſſoone as it is Plowed up, then to manure it with your manuring <hi>Rowler;</hi> And what you Plow up one day, you ſhould Manure the day following.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>CHAP. II.</hi> How to improve Barren Land not worth yearely <hi>xij.d.</hi> the Acre, and in make it become worth yearely <hi>xx.s.</hi> or <hi>xxx.s.</hi> the Acre.</head>
+               <p>ONe of the beſt and ſureſt wayes to Improve any manner of barren Land both ſpeedily and effectually is by ma<g ref="char:EOLhyphen"/>king long Furrowes, or Trenches, eyther with the Plow or Spade 12. or 18. Inches deepe, and 12. or 18. Inches wide: theſe furrows and trenches ſhould be made along fro<g ref="char:cmbAbbrStroke">̄</g> the South to the North, &amp; diſtant ſome 14, 15, or 16. foot each furrow or trench from the other: theſe furrowes being thus made ſhould be filled up with the beſt, and richeſt Earth or ſoyle that may be got neare to the ſaid barren land; and after they are thus filled, then at the ſeaſon of the yeare for Planting, then to plant Quickſets, and all other ſmall Plants of divers kinds all along in the ſaid Trenches and furrowes; or otherwiſe to ſet or ſow Acornes, Nuts, Hawes, and the ſeeds of other Trees in the ſaid Trenches and furrowes that it may grow up to a Hedge-row or hedge, and ſo to preſerve them and let them grow.</p>
+               <p>Now in the Spaces between the ſaid furrowes you may prac<g ref="char:EOLhyphen"/>tiſe ſeverall points of Husbandry in manner following, as in one or 2, or 3. of the ſaid Spaces between the ſaid trenches or furrowes, if you would have Medow ground or Paſture; then when the ground is wet eyther with Raine or with Snow,
+<pb n="4" facs="tcp:153340:3"/>you muſt manure the ſame with the manuring <hi>Barrow,</hi> or ma<g ref="char:EOLhyphen"/>nuring <hi>Rowler,</hi> they being filled with the richeſt or fatteſt Earth you can get untill the ſaid Spaces become all mire and dirt; and after that bring the beſt greene Turffe you can get in Lanes, or along by Hedge-ſides, from whence the ſame may be beſt ſpared into your ſaid Barren ground, and ſpread the ſame all over the ſaid ſpaces between the trenches covering the ſaid barren ground therewith, that you would have to be good Me<g ref="char:EOLhyphen"/>dow or Paſture ground; and after that fill your manuring <hi>Row<g ref="char:EOLhyphen"/>ler</hi> with good mellow Dung and manure the ſaid ſpaces there<g ref="char:EOLhyphen"/>with; In the <hi>Winter</hi> ſeaſons and a little before the <hi>Spring,</hi> and ſo every Winter ſeaſon when the ſaid ground is moyſt, and it will become good Medow or Paſture ground worth xx.s. or xxx.s. the Acre or more, and continue ſo for ever.</p>
+               <p>Alſo, you ſhould have a great care that no Cattle that will Crop come into the ſaid ground before your Quickſets and Hedge-rowes be growne out of danger; and therefore you muſt preſerve the graſſe for Hay, and in the <hi>Autumne,</hi> and <hi>Winter</hi> you may put in your Lambes, Calves, and Colts, and any other cat<g ref="char:EOLhyphen"/>tle that will not Crop, and it will breed them up very well and yeeld you profit enough.</p>
+               <p>Now in the other Spaces you may uſe &amp; practiſe other points or kinds of Husbandry at your pleaſure, that are or hereafter ſhall be publiſhed; for in ſome of them you may ſet and ſow Beanes, and Peaſe after the ſame manner as is declared in the following <hi>Chapters.</hi> And in the other Spaces you may plant and ſet young Trees; In other ſpaces you may ſow Roots, as Turneps, Carrets and ſuch like, having manured, prepared and fitted the ſaid ground and ſpaces for the ſaid purpoſes.</p>
+               <p>And in other of the ſaid Lands and ſpaces having moveable Folds made for the purpoſe to fold your Cattle in, you may fodder any Cattle you have in the ſaid Lands, and improve it very much, and alſo improve your Cattle, by defending them from wind and weather in Cold ſeaſons.</p>
+               <pb n="5" facs="tcp:153340:3"/>
+               <p> Theſe moveable Folds are to be made of the lighteſt wood and boards as is to bee obtained, as of Elme, Maple, Sallow, Willow and ſuch like; alſo, thoſe that ſhall deſire to ſee the ſame, or onely the Modell of them, or to have them made, if they ſhall reſort to ſuch places, whereto they ſhall be directed in this Booke; they may there ſee the ſame or bee furniſhed with them if they pleaſe.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>
+                  <hi>CHAP. III.</hi> How to Improve any Barren Land not worth <hi>xij.d.</hi> the Acre.</head>
+               <p>ANother way to Improve any manner of barren Land both eaſily and ſpeedily; Is firſt to make long Furrowes from the South to the North and fill them up with good rich and fertile Earth, as is declared in the former <hi>Chapter,</hi> and then to ſet Beanes or Peaſe in their ſeaſon all along in the ſaid fur<g ref="char:EOLhyphen"/>rowes; and then all along in the Space betweene the ſaid fur<g ref="char:EOLhyphen"/>rowes to make Holes eyther with a good round Stake or crow of Jron about 10, or 12. Inches deepe, the wider the holes are the better; then fill up the ſaid holes with the beſt Earth or mixed mould as is before declared for the Furrowes; and ſet Beanes or Peaſe in the ſaid Holes.</p>
+               <p>Now after you have gathered your Beanes and Peaſe, you may let the Stalks and hames remaine and rot upon the ground, and then in the next wet Seaſons enſuing, manure the ſaid ground with the manuring <hi>Rowlers</hi> filled with Dung, or o<g ref="char:EOLhyphen"/>ther good Earth, or fertile mould, that may moſt eaſily bee had.</p>
+               <p>If your Barren ground be ſomewhat dry that you would ma<g ref="char:EOLhyphen"/>nure, then it will be worth your labour to naile or faſten all the courſe old Linnen or woollen Rags doubled or twiſted to<g ref="char:EOLhyphen"/>gether you have or can have, round about on the out-ſide of
+<pb n="6" facs="tcp:153340:4"/>your manuring <hi>Rowlers,</hi> and then powre water upon them when you manure your ground therewith, and alſo you muſt moyſten eyther the Dung or the fertile Earth very much with water, when that you put it into the manuring <hi>Rowler</hi> to manure your Land therwith; and ſo when the Rags ſhall grow any thing dry to wet them well againe with water, by powring it upon them.</p>
+               <p>Alſo, it will be worth labour and very good to Manure your ground early in the Morning when the ground is very full of Dew, with the manuring Rowler.</p>
+               <p>The ſeverall Benefits that will ariſe to all in the Nation will be many through the exerciſe of theſe points of Husbandry ſome whereof I will name; As firſt, all or moſt of the Poore in the Nation may be ſet on worke in one kind or other tho<g ref="char:EOLhyphen"/>row-out the Nation, to the great profit of the Owners of the barren Lands in the Nation; ſome being imployed in making Trenches, Pits and holes, others in filling them up with earth, and others in Planting, Sowing, and ſetting Plants, or Seeds, or other things as is preſcribed.</p>
+               <p>Secondly, The maintenance of the Miniſters and Gentry will be amended and increaſed.</p>
+               <p>Thirdly, The Marchants, Tradeſmen, and Handicrafts-men, will gaine hereby; for all Trading will be increaſed.</p>
+               <p>Fourthly, the Cuſtomes, and other revenues due to the State will be increaſed.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>
+                  <hi>CHAP. IV.</hi> Another way whereby Barren-fields may be improved.</head>
+               <p>FIrſt, you may plow Furrowes from one end or ſide of your Field unto the other, and fill up the ſame with good fer<g ref="char:EOLhyphen"/>tile mould of Earth, if you deſire to improve your Land by ſowing or ſetting Beanes, Peaſe or any other kind of graine in Furrowes, and not by planting of Wood.</p>
+               <p>Alſo, you may Plow the ſaid fields very well and ſo Har<g ref="char:EOLhyphen"/>row them, and then manure them with the manuring <hi>Rowler,</hi>
+                  <pb n="7" facs="tcp:153340:4"/>and after plant and ſet Corne in the ſame; making holes with a Setting-ſtick made for that purpoſe, and putting in with your Seed fine ſmall light mould that is ſifted into the ſaid holes, filling them up therewith.</p>
+               <p>And after when you have gathered your Crop, then in wet Seaſons if the ground be wet manure the ſaid Fields with your manuring <hi>Rowlers</hi> well filled with Dung, or other good ſoyle, and your ſaid fields will be extraordinarily Improved, and made fertile.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>
+                  <hi>CHAP. V.</hi> Another way to improve Barren Land not worth <hi>xij.d.</hi> the Acre.</head>
+               <p>ANother way to Improve any manner of barren Land, is by Digging many holes or ſmall Pits one foot and a half deepe, and two foot ſquare, and then to fill up the ſaid Pits or holes with the beſt Earth or mould that is to be got neere unto the ſaid barren Land, and then at the Seaſon of the yeare that is beſt for Setting and Planting to ſet or plant ſuch ſmall Trees or Plants, as will agree beſt with the nature of the ſoyle there layd, and not too much different from the nature of the ſoyle of the ſaid Climate, and indeed it will be very neceſ<g ref="char:EOLhyphen"/>ſary to obſerve what Earth, or ſoyle will improve beſt the ſaid Barren earth; For as Oake will grow and proſper beſt in Clay grounds, ſo Elmes will grow and proſper beſt in rich Sandie grounds and other Dry moulds, and other ſorts of wood; In o<g ref="char:EOLhyphen"/>ther ſorts of ground, as Willowes in wet grounds, and Aſh, Maple, Beech; and indeed moſt ſorts of Wood will grow in mixed moles and Loamy grounds.</p>
+               <p>Now then it is expedient that ſuch Perſons as will uſe theſe or the like wayes in Improving of theſe Barren grounds, doe Obſerve the natures of ſuch barren ground as they deſire to improve, as to obſerve whether it be wet Mooriſh grounds, or dry Sandy barren ground, or Chalkie, Gravelly, or Clay, or Loamie ground; for as there be rich Sandy grounds, ſo there
+<pb facs="tcp:153340:5" rendition="simple:additions"/>are barren ſandy grounds, and as there be rich Loamie, gravelly and Clay grounds, ſo there be barren loamy, gravelly and Clay grounds. Now if you make your Trenches or little Pits in dry barren Sandy ground, then to fill the ſaid Pits and tren<g ref="char:EOLhyphen"/>ches with the richeſt Clay or loamy Earth you can get, &amp; alſo to manure the ſaid ground with the ſame, and if you make your ſaid trenches and pits in wet or Mooriſh grounds, then to fill both the trenches and pits with the fatteſt Sand, or dryeſt rich mould well Chaulked, or you may put ſome Chalke into the ſaid trenches or pits before the ſaid Sand or Rich dry earth be layd in the ſame, and to manure the ſaid wet ground with the like, ſpreading much Chalke or ſand upon the ſaid Mooriſh, or wet grounds. Now by this kind of Husbandry great profit will ariſe to the Owners of the ſaid barren Land, and alſo to the Common-wealth and Nation; for hereby all ſorts of Timber will become plentifull for all uſes.</p>
+               <p>Theſe holes and Pits may be made as neere together as the Planters ſhall pleaſe, for as the ſaid Trees grow up and ſpread ſome may be Cut downe and taken away to the owners profit and others left to grow and ſpread, and alwaies when they ſhall want ſpace to ſpread and grow then to fell and take away ſome more, leaving others to continue growing untill they ſhall be come to their full growth; Thus may barren ground that is not worth xij.d. the Acre, be made to bring in great profit, and be Improved from generation to generation, and in the end when all or moſt of the Trees be felled or taken away it will become and continue good Arable or Paſture ground for ever, if it be yearly Manured in its ſeaſon as it ought, and may eaſily be done.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <p>AT the Houſe of <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> There you may ſee the Exact modell and manner of the improving Inventions, and receive further Inſtructions for the Improving of any manner of Barren Land if you pleaſe, and alſo be directed to ſuch Perſons, as will eyther buy or farme any Barren Lands that you ſhall be deſirous to Sell or Let.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
